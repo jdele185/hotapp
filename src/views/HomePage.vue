@@ -1,6 +1,6 @@
 <script setup>
 import { ref } from 'vue'
-const title = ref('Desired Route ✋')
+const title = ref('Desired Route 🗺️')
 </script>
 
 <template>
